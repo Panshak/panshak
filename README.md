@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-🔭 I’m currently building a birding app for birders, birdwatchers and citizen scientists in Africa - 
+🔭 I’m currently building a birding app for ornithologists, birders, birdwatchers and citizen scientists in Africa - 
 [BirdPlus](https://play.google.com/store/apps/details?id=com.birdplus)
 <!-- - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
